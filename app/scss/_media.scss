@@ -1,0 +1,223 @@
+@media(max-width: 1200px){
+    .people-tennis{
+        right: 0;
+    }
+    
+}
+
+
+@media(max-width: 1050px){
+    .header-img{
+        width: 100%;
+    }
+    
+    
+    .people-gerl{
+        left: 0;
+    }
+    .people-basket{
+        position: absolute;
+        z-index: 6;
+        left: 138px;
+        top: 153px;
+        right: 0;
+    }
+    .people-gerl,
+    .people-tennis{
+        position: absolute;
+        z-index: 5;
+}
+.space3,
+.space4,
+.space6{
+    display: none;
+}
+
+
+.social__inner-box{
+    width: auto;
+}
+.gid__img-1,
+.gid__img-3,
+.gid__img-5{
+    width: 100%;
+}
+.gid__img-2,
+.gid__img-4,
+.gid__img-6{
+    width: 80%;
+    left: 24px;
+    top: 188px;
+}
+.gid__lock,
+.gid__lock1,
+.gid__lock2{
+    width: 23%;
+    left: auto;
+    top: 231px;
+}
+
+}
+
+
+@media(max-width: 950px){
+    .people-basket{
+        width: 400px;
+        top: 0;
+        left: 257px;
+    }
+    .people-tennis{
+        width: 200px;
+        top: 0;
+        right: 150px;
+    }
+    .people-gerl{
+        width: 200px;
+        top: 16px;
+        left: 100px;
+    }
+}
+
+@media(max-width: 900px){
+    .header-img{
+        width: 100%;
+    }
+    .header{
+        max-width: 800px;
+    }
+    .menu__header{
+        font-size: 13px;
+    }
+    .gid__box{
+        padding: 20px 0;
+    }
+}
+@media(max-width: 800px){
+    .header{
+        display: none;
+    }
+    .menu-btn1{
+        display: block;
+        margin-left: 20px;
+    }
+    .people-basket{
+        width: 300px;
+        top: 0;
+        left: 190px;
+    }
+    .people-tennis{
+        width: 150px;
+        top: 0;
+        right: 150px;
+    }
+    .people-gerl{
+        width: 150px;
+        top: 16px;
+        left: 100px;
+    }
+    .space5{
+        display: none;
+    }
+    .header-img{
+        display: none;
+    }
+    .space1{
+        right: 100px;
+    }
+    .slick-next,
+    .slick-prev{
+        display: none;
+    }
+    .gid__button{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .gid__button-link{
+        margin: 10px 20px;
+        margin-right: 20px;
+    }
+    .gid__lock,
+    .gid__lock1,
+    .gid__lock2{
+        width: 23%;
+        left: auto;
+        top: 200px;
+    }
+    .video__inner-title img{
+        width: 100%;
+    }
+}
+@media(max-width: 700px){
+    .people-basket{
+        top: 10px;
+        left: 85px;
+    }
+    .people-tennis{
+        top: 10px;
+        right: 219px;
+    }
+    .people-gerl{
+        left: 37px;
+    }
+    .space1{
+        right: 180px;
+    }
+    .social__link img{
+        display: none;
+    } 
+}
+@media(max-width: 650px){
+    .people-basket{
+        width: 150px;
+        top: 30px;
+    }
+    .people-tennis{
+        width: 100px;
+        top: 10px;
+        right: 400px;
+        position: inherit;
+    }
+    .people-gerl{
+        width: 100px;
+        left: 37px;
+    }
+    .space1{
+        right: 250px;
+    }
+    .space2{
+        right: 287px;
+    }
+    .manifest__title img{
+        width: 300px;
+    }
+}
+@media(max-width: 500px){
+    .gid__lock,
+    .gid__lock1,
+    .gid__lock2{
+        width: 23%;
+        left: auto;
+        top: 210px;
+}
+}
+@media(max-width: 400px){
+    .gid__lock,
+    .gid__lock1,
+    .gid__lock2{
+        width: 23%;
+        left: auto;
+        top: 230px;
+}
+    .gid__img-2,
+    .gid__img-4,
+    .gid__img-6{
+        top: 220px;
+}
+}
+
+
+
+
+@media(min-width: 850px){
+ 
+}
